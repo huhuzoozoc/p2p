@@ -6,7 +6,7 @@ body,html,ul,li,ol{padding: 0;margin: 0;list-style: none;}
 
 /*头部header*/
 .logohu{background: white;}
-.logohu>div{width: 1000px;overflow: hidden;margin: 0 auto;}
+.logohu>div{width: 950px;overflow: hidden;margin: 0 auto;}
 .logohu>div>div:nth-of-type(1){width: 171px;height: 60px;float: left;background:url(../images/logo1.png);}
 .logohu>div>div:nth-of-type(2){width: 327px;height: 60px;float: right;background:url(../images/logo2.png);}
 .bannerhu>div{height: 512px;width: 1200px;background: url(../images/banner1.png) no-repeat left;margin: 0 auto;background-position: -100px}
